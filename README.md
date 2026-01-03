@@ -11,7 +11,7 @@ Official completion certificates issued by ProgrammingAdvices.com:
 
 ### Roadmap Overview
 
-![Abu-Hadhoud Programming Roadmap](Roadmap.png)
+![Abu-Hadhoud Programming Roadmap](RoadMap.png)
 
 ### Overview
 This repository documents my ongoing journey through one of the most rigorous and well-structured programming roadmaps available today. Designed by Dr. Mohammed Abu-Hadhoud, the 24-course curriculum builds **professional-grade software engineering skills** progressively — from deep conceptual foundations to full-stack application development.
