@@ -5,7 +5,7 @@ Dr. Mohammed Abu-Hadhoud's Comprehensive Curriculum
 
 ### Certificates
 Official completion certificates issued by ProgrammingAdvices.com:  
-👉 [**View All Certificates**](/certificates)
+👉 [**View All Certificates**](/Certificates)
 
 *Verified credentials for all completed courses – updated as I progress through the roadmap.*
 
