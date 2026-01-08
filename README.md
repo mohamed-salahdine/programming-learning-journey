@@ -1,59 +1,63 @@
-# My Learning Journey
-**Structured Professional Development Path**  
-Dr. Mohammed Abu-Hadhoud's Comprehensive Curriculum  
-[ProgrammingAdvices.com](https://programmingadvices.com/)
+# Hi, I'm Mohamed SALAHDINE 👋
+**Software Developer | Computer Science Fundamentals in Progress**
 
-### Certificates
-Official completion certificates issued by ProgrammingAdvices.com:  
-👉 [**View All Certificates**](/Certificates)
+I’m a software developer currently following the **ProgrammingAdvices.com professional roadmap**.
+I am actively building strong foundations in **programming, problem-solving, algorithms,
+object-oriented programming, and databases**.
 
-*Verified credentials for all completed courses – updated as I progress through the roadmap.*
-
-### Roadmap Overview
-
-![Abu-Hadhoud Programming Roadmap](RoadMap.png)
-
-### Overview
-This repository documents my ongoing journey through one of the most rigorous and well-structured programming roadmaps available today. Designed by Dr. Mohammed Abu-Hadhoud, the 24-course curriculum builds **professional-grade software engineering skills** progressively — from deep conceptual foundations to full-stack application development.
-
-The roadmap is divided into two stages:
-- **Stage 1** (Courses 1–13): Mastering problem-solving, C++, OOP, data structures, and systems thinking
-- **Stage 2** (Courses 14–24): Transitioning to C#, databases, advanced OOP, and building real-world projects (including the capstone DVLD system)
-
-### Why This Roadmap
-This curriculum stands out for its emphasis on:
-- **Depth over speed** – Understanding "why" before "how"
-- **Progressive complexity** – Hundreds of hand-crafted problems building true algorithmic maturity
-- **Clean, professional code** – Heavy focus on design, modularity, and maintainability
-- **Real-world readiness** – Culminating in a complete database-driven application
-
-### Current Progress
-- **Stage 1 (Courses 1–13)**: Fully completed  
-  Strong foundation in algorithmic thinking, C++, object-oriented design, memory management, and custom data structures
-- **Stage 2**: Actively in progress  
-  Currently advancing into C#, SQL, database integration, and full project development
-
-### Key Skills Developed So Far
-- Advanced problem-solving and algorithmic design
-- Proficient C++ implementation (procedural and object-oriented)
-- Deep understanding of program execution, memory, and performance
-- Object-Oriented Analysis & Design (encapsulation, inheritance, polymorphism, SOLID principles)
-- Custom data structure implementation (linked lists, stacks, queues)
-- Structured thinking: flowcharts, pseudocode, modular architecture
-- Independent learning, debugging, and code organization
-
-### Future Goals
-Complete Stage 2, including:
-- C# mastery and modern language features
-- Database design and T-SQL
-- Full-stack application development
-- Capstone project: DVLD (Driver and Vehicle Licensing Department) system
+At the moment, I am studying **Databases – Level 1**, focusing on SQL and relational database concepts,
+while continuously practicing and improving my problem-solving skills.
 
 ---
 
-Thank you for taking the time to review my work.  
-I'm passionate about writing robust, well-designed software and eager to apply these skills in a professional environment.
+## 🧠 Current Learning Focus
+- Programming fundamentals
+- Algorithms & problem solving
+- Data structures (core concepts)
+- Object-Oriented Programming
+- **Databases & SQL (currently studying – Level 1)**
 
-🚀 Open to opportunities in software engineering, backend development, or full-stack roles.
+---
 
-Feel free to explore the course folders and certificates!
+## 📚 Roadmap Progress
+- ✅ Programming Fundamentals
+- ✅ Algorithms & Problem Solving (Levels 1–5)
+- ✅ C++ Programming (Levels 1–2)
+- ✅ OOP (Concepts & Applications)
+- 🔄 Databases – Level 1 (In Progress)
+- ⏭️ C# Programming & Advanced Topics (Upcoming)
+
+---
+
+## 📂 Featured Repository
+
+### 🔹 ProgrammingAdvices Roadmap (In Progress)
+A structured repository that follows the **exact order of the ProgrammingAdvices courses**.
+
+- Practical exercises and implementations
+- Progressive difficulty
+- Clear folder structure per course
+
+➡️ **Repository:** `programming-advices-roadmap`
+
+---
+
+## 🛠️ Technologies & Tools
+- **C++**
+- **SQL (currently practicing)**
+- Basic exposure to **C#**
+- Console-based applications
+
+---
+
+## 🎯 What I Focus On
+- Understanding fundamentals before moving forward
+- Writing clear and readable code
+- Solving problems step by step
+- Learning concepts deeply, not superficially
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/mohamed-salahdine
+- LinkedIn: https://linkedin.com/in/mohamed-salahdine
